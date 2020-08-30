@@ -139,6 +139,7 @@ const data = {
     softwareRequired: '',
     introduction: '',
     readmeLeftover,
+    tagline: '',
     docs: [
       {
         filename: 'docs/01-getting-started.md',
